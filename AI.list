@@ -58,6 +58,9 @@ DOMAIN-SUFFIX,mozz.us
 DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
 DOMAIN-SUFFIX,poe.com
+#Talkanote
+DOMAIN-KEYWORD,talkanote
+DOMAIN-SUFFIX,talkanote.com
 #openai ip
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
